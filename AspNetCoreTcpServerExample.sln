@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreTcpServerExample", "AspNetCoreTcpServerExample\AspNetCoreTcpServerExample.csproj", "{33B1955B-D462-4D00-A509-C77677D25015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClientExample", "TcpClientExample\TcpClientExample.csproj", "{AF6CE59C-1979-4A1B-ABC2-124F23A35D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B1955B-D462-4D00-A509-C77677D25015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B1955B-D462-4D00-A509-C77677D25015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B1955B-D462-4D00-A509-C77677D25015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B1955B-D462-4D00-A509-C77677D25015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6CE59C-1979-4A1B-ABC2-124F23A35D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6CE59C-1979-4A1B-ABC2-124F23A35D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6CE59C-1979-4A1B-ABC2-124F23A35D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6CE59C-1979-4A1B-ABC2-124F23A35D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53C9F2D-8662-4677-901F-FAE56B0F892C}
+	EndGlobalSection
+EndGlobal
